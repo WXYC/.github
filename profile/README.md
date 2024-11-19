@@ -2,7 +2,7 @@
 ![logo](https://user-images.githubusercontent.com/445782/235370555-695b3acd-3eee-4cde-b229-fc1b6c9409a3.png)
 # Hello!
 
-[WXYC](http://wxyc.org) 89.3 FM is the non-commercial student-run radio station of the University of North Carolina at Chapel Hill. This is the public repository for our technology operations. Please [email us](mailto:info@wxyc.org) if you have any questions.
+[WXYC](http://wxyc.org) 89.3 FM is the non-commercial student-run radio station of the University of North Carolina at Chapel Hill. This is the public repository for our technology operations. Please [email us](mailto:tech@wxyc.org) if you have any questions.
 
 # Contributing
 We're delighted you want to help contribute to our online operations. We welcome folks at all levels of experience, whether you're a seasoned engineer or just starting out.
